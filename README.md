@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Ronquillo</h1>
-<h3 align="center">A passionate data scientist and developer from México.</h3>
+<h3 align="center">A passionate data scientist and software developer from México.</h3>
 
 - 🔭 I’m currently working on **Automatic Recommendation System**
 
