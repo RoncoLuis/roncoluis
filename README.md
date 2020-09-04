@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automatic Recommendation System**
 
-- 🌱 I’m currently learning **Storytelling, copywrtiting, data visualization & tableu.**
+- 🌱 I’m currently learning **Storytelling with data, copywrtiting, data visualization & tableu.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoncoLuis](https://github.com/RoncoLuis)
 
